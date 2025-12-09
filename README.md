@@ -1,6 +1,6 @@
 # kimds929 GitHub
 
-· 🎆 Notion : https://www.notion.so/kimds929/AI-Artificial-Intelligence-df190bfe94484b679d7668b1d5584aca
+· 🎆 Notion for AI : https://www.notion.so/kimds929/AI-Artificial-Intelligence-df190bfe94484b679d7668b1d5584aca
 
 <!--
 **kimds929/kimds929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
